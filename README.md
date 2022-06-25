@@ -32,7 +32,7 @@ From what I've played of Monster Hunter: Rise, it is no Monster Hunter: World. H
 
 >Rise to the challenge and join the hunt! In Monster Hunter Rise, the latest installment in the award-winning and top-selling Monster Hunter series, you’ll become a hunter, explore brand new maps and use a variety of weapons to take down fearsome monsters as part of an all-new storyline. The PC release also comes packed with a number of additional visual and performance enhancing optimizations.
 
-![About](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/01_%E3%83%9E%E3%83%AB%E3%83%81_full.gif?t=1655377453)
+![About](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/01_%E3%83%9E%E3%83%AB%E3%83%81_full.gif)
 
 Ferocious monsters with unique ecologies
 
@@ -63,22 +63,24 @@ Enjoy an exciting new storyline set in Kamura Village
 
 Experience new hunting actions with the Wirebug
 
+>Wirebugs are an integral part of your hunter’s toolkit. The special silk they shoot out can be used to zip up walls and across maps, and can even be used to pull off special attacks unique to each of the 14 weapon types in the game.
+
 ![Wirebug](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/02_%E7%BF%94%E8%9F%B2.gif?t=1655377453)
 
->Wirebugs are an integral part of your hunter’s toolkit. The special silk they shoot out can be used to zip up walls and across maps, and can even be used to pull off special attacks unique to each of the 14 weapon types in the game.
 
 
 Buddies are here to help
+
 >The Palico Felyne friends you already know and love from previous Monster Hunter adventures are joined by the brand new Palamute Canyne companions!
 
 Wreak havoc by controlling monsters
 
-![Control Monster](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/03_%E6%93%8D%E7%AB%9C.gif?t=1655377453)
-
 >Control raging monsters using Wyvern Riding and dish out massive damage to your targets!
 
+![Control Monster](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/03_%E6%93%8D%E7%AB%9C.gif?t=1655377453)
 
 Fend off hordes of monsters in The Rampage
+
 >Protect Kamura Village from hordes of monsters in an all-new quest type! Prepare for monster hunting on a scale like never before!
 
 </details>
