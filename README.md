@@ -3,15 +3,13 @@
 
 # Monster Hunter: Rise Review 2022 |
 
-***
-
 [Popados Github](https://github.com/popados) | [Jump to End](#end-of-doc)
 
 ***
 
 ## Monster Hunter: Rise | 
 
-***
+<!-- [Video](https://cdn.cloudflare.steamstatic.com/steam/apps/256873105/movie480_vp9.webm?t=1644458549) -->
 
 ### [Steam Link](https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/) | [Jump to End](#end-of-doc)
 
@@ -23,6 +21,7 @@
 
 From what I've played of Monster Hunter: Rise, it is no Monster Hunter: World. However for a game designed for the Nintendo Switch it has a ton of content with more to come.
 
+***
 
 ### About Game
 
