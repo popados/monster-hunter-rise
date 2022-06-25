@@ -7,7 +7,7 @@
 
 ***
 
-## Monster Hunter: Rise | 
+## Game Info | 
 
 <!-- [Video](https://cdn.cloudflare.steamstatic.com/steam/apps/256873105/movie480_vp9.webm?t=1644458549) -->
 
@@ -30,9 +30,9 @@ From what I've played of Monster Hunter: Rise, it is no Monster Hunter: World. H
 
 </br>
 
-![About](https://cdn.akamai.steamstatic.com/steam/apps/1446780/extras/01_%E3%83%9E%E3%83%AB%E3%83%81_full.gif?t=1655377453)
-
 >Rise to the challenge and join the hunt! In Monster Hunter Rise, the latest installment in the award-winning and top-selling Monster Hunter series, you’ll become a hunter, explore brand new maps and use a variety of weapons to take down fearsome monsters as part of an all-new storyline. The PC release also comes packed with a number of additional visual and performance enhancing optimizations.
+
+![About](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/01_%E3%83%9E%E3%83%AB%E3%83%81_full.gif?t=1655377453)
 
 Ferocious monsters with unique ecologies
 
