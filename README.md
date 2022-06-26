@@ -19,7 +19,20 @@
 
 ### My Review
 
-From what I've played of Monster Hunter: Rise, it is no Monster Hunter: World. However for a game designed for the Nintendo Switch it has a ton of content with more to come.
+#### About the game and information
+
+From what I've played of Monster Hunter: Rise, it is no Monster Hunter: World. The game is designed for the Nintendo Switch. Because of this, the graphics are poorly optimized for PC gaming. This is offset by the amount of content included in just the base game.
+
+My first few steps into the game were greeted by the Clan Elder Fugen. Training to be a Hunter of Kamura is over. THE RAMPAGE IS UPON US. You, the star student, are assigned missions to protect the village.
+
+From the beginning of the game you are introduced to the shrine maidens, Hinoa, and Minoto. They are the Village and Hub quest givers respectively.  Hinoa gives you a brief tour of the Kamura Village. This includes the Store, Smithy, and Bunny Dango(this game’s version of pre-mission food).
+
+#### My impressions of the game
+
+What I discovered while playing with the wirebugs is that to have the best control I had to change my settings on the PC version. For the Switch, they seemed natural.  Wirebugs allow you to grapple or throw yourself across the map with a bug.
+
+The missions themselves are standard Monster Hunter missions. The maps are fun and have lots of ways of dealing with monsters that you control. All the audio, graphics, and all the other bits and pieces that make up an immersive world were there. The characters, while one-dimensional were fun pieces in the Village, so as you acquired more items and build better weapons you would help the NPC villagers. This game also relies on you recruiting and sending out “buddies”. Buddies are animal companions to the hunter and give you extra buffs and abilities.
+
 
 ***
 
@@ -30,9 +43,12 @@ From what I've played of Monster Hunter: Rise, it is no Monster Hunter: World. H
 
 </br>
 
+![About](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/01_%E3%83%9E%E3%83%AB%E3%83%81_full.gif?t=1655377453)
+
+
 >Rise to the challenge and join the hunt! In Monster Hunter Rise, the latest installment in the award-winning and top-selling Monster Hunter series, you’ll become a hunter, explore brand new maps and use a variety of weapons to take down fearsome monsters as part of an all-new storyline. The PC release also comes packed with a number of additional visual and performance enhancing optimizations.
 
-![About](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/01_%E3%83%9E%E3%83%AB%E3%83%81_full.gif?t=1655377453)
+
 
 Ferocious monsters with unique ecologies
 
@@ -66,7 +82,6 @@ Experience new hunting actions with the Wirebug
 >Wirebugs are an integral part of your hunter’s toolkit. The special silk they shoot out can be used to zip up walls and across maps, and can even be used to pull off special attacks unique to each of the 14 weapon types in the game.
 
 ![Wirebug](https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/extras/02_%E7%BF%94%E8%9F%B2.gif?t=1655377453)
-
 
 
 Buddies are here to help
