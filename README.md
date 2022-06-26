@@ -104,8 +104,11 @@ Fend off hordes of monsters in The Rampage
 
 ### Check List
 
+<details>
+<summary>List</summary>
+</br>
 
----{ Graphics }---
+---{ Graphics }--- 
 
 ☐ You forget what reality is
 
@@ -285,6 +288,7 @@ Fend off hordes of monsters in The Rampage
 
 ☐ 10
 
+</details>
 
 ***
 
