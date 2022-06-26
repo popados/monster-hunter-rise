@@ -160,10 +160,10 @@ Fend off hordes of monsters in The Rampage
 
 ---{ Grind }---
 
-☑ Nothing to grind
+☐ Nothing to grind
 ☐ Only if u care about leaderboards/ranks
 ☐ Isn't necessary to progress
-☐ Average grind level
+☑ Average grind level
 ☐ Too much grind
 ☐ You'll need a second life for grinding
 
@@ -172,8 +172,8 @@ Fend off hordes of monsters in The Rampage
 ☐ No Story
 ☐ Some lore
 ☐ Average
-☑ Good
-☐ Lovely
+☐ Good
+☑ Lovely
 ☐ It'll replace your life
 
 ---{ Game Time }---
@@ -196,8 +196,8 @@ Fend off hordes of monsters in The Rampage
 ---{ Bugs }---
 
 NOTE:REMEMBER THAT THE GAME IS IN EARLY ACCESS DURING THIS REVIEW. THE BUGS IS NOT BAD FOR AN EARLY ACCESS TITLE
-☐ Never heard of
-☑ Minor bugs
+☑ Never heard of
+☐ Minor bugs
 ☐ Can get annoying
 ☐ ARK: Survival Evolved
 ☐ The game itself is a big terrarium for bugs
